@@ -9,7 +9,7 @@ Software that allows you to control a hydraulic crane with an exoskeleton suppor
 </p>
 
 <p align="center">
-<img src="hhttps://github.com/KonradSosna/crane-control-with-a-coupled-exoskeleton/blob/main/img/exo.png">
+<img src="https://github.com/KonradSosna/crane-control-with-a-coupled-exoskeleton/blob/main/img/exo.png">
 </p>
 
 <p align="center">
