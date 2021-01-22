@@ -1,6 +1,4 @@
-<p align="center">
 # crane-control-with-a-coupled-exoskeleton
-</p>
 
 <p align="center">
 Software that allows you to control a hydraulic crane with an exoskeleton supported by actuators
