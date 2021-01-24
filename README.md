@@ -1,7 +1,7 @@
 # crane-control-with-a-coupled-exoskeleton
 
 <p align="center">
-### Software that allows you to control a hydraulic crane with an exoskeleton supported by actuators
+## Software that allows you to control a hydraulic crane with an exoskeleton supported by actuators
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-### Made in Matlab
+## Made in Matlab
 </p>
 
 <p align="center">
