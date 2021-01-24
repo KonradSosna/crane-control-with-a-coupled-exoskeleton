@@ -12,6 +12,8 @@ Software that allows you to control a hydraulic crane with an exoskeleton suppor
 <img src="https://github.com/KonradSosna/crane-control-with-a-coupled-exoskeleton/blob/main/img/exo.png">
 </p>
 
+## Software made in Matlab
+
 <p align="center">
 <img src="https://github.com/KonradSosna/crane-control-with-a-coupled-exoskeleton/blob/main/img/diagram.png">
 </p>
